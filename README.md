@@ -12,12 +12,19 @@ hmm runs ok on raspberry pi 400
 
 Help me Please?!
 
+---
+
+can anyone make this work?
+
+---
+
+
 https://ldijkman.github.io/Electra/
 
 
 
 
-well it doe something on check code
+well it does something on v check code
 
 but i have no idea yet
 
