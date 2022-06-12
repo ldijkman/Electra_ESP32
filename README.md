@@ -18,7 +18,8 @@ Can anyone make this work?
 
 note: i have changed tjpegdecoder.h in libraries example fil in src
 - to make littlefs work for tjpeg  did some ifdef esp32 littlefs include changes
-
+- think because i used esp boardmanager 1.0.6
+- and thats why i included lorol litlefs.h but thats now in platformio.ini lib_deps =lorol/LittleFS_esp32@^1.0.6
 ---
 
 
