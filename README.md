@@ -20,6 +20,22 @@ well it doe something on check code
 but i have no idea yet
 
 ```
+how do i get a better lib_deps for wifi
+
+arduino says Using library WiFi at version 1.0 in folder: /home/pi/.arduino15/packages/esp32/hardware/esp32/1.0.6/libraries/WiFi 
+
+[env:esp32dev]
+platform = espressif32
+board = esp32dev
+framework = arduino
+lib_extra_dirs = /home/pi/Arduino/libraries
+lib_deps =lorol/LittleFS_esp32@^1.0.6, /home/pi/.arduino15/packages/esp32/hardware/esp32/1.0.6/libraries/WiFi/
+
+
+
+
+
+
 
 > Executing task in folder 220612-104357-esp32dev: platformio run <
 
