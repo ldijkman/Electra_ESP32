@@ -10,11 +10,11 @@ and now trying visual studio platform io  https://platformio.org/install/ide?ins
 
 hmm runs ok on raspberry pi 400
 
-Help me Please?!
-
 ---
 
-can anyone make this work?
+Help me Please?!
+
+Can anyone make this work?
 
 ---
 
