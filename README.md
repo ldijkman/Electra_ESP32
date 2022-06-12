@@ -16,6 +16,9 @@ Help me Please?!
 
 Can anyone make this work?
 
+note: i have changed tjpegdecoder.h in libraries example fil in src
+- to make littlefs work for tjpeg  did some ifdef esp32 littlefs include changes
+
 ---
 
 
