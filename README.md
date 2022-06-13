@@ -37,6 +37,11 @@ how do i get a better lib_deps for wifi
 
 arduino says Using library WiFi at version 1.0 in folder: /home/pi/.arduino15/packages/esp32/hardware/esp32/1.0.6/libraries/WiFi 
 
+i would prefer libraries from online source 
+- so that it is the same for everyone
+- but what abou tft_espi user setup.h need different versions for screen drivers 
+- should i host different usersetup.h on github?
+
 [env:esp32dev]
 platform = espressif32
 board = esp32dev
